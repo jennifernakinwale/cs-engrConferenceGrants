@@ -1,4 +1,4 @@
-# cs-engrConferenceGrants
+# Computer Science/Engineering Conference Travel Grants
 
 
 A curated list of fellowships and scholarships for graduate students in Computer Science and related fields. List created by [Jennifer Akinwale](https://jennifernakinwale.netlify.app/), a Computer Science Ph.D. researcher at the University of Cincinnati (UC).
