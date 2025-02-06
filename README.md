@@ -12,7 +12,7 @@ respective graduate programs. Most reputable PhD programs provide full funding t
 
 _Note: a number of fellowships listed below have been deprecated but are still listed for posterity. Occasionally, companies and organizations revive fellowships, so I would still suggest checking them occasionally._
 
-## Awards
+## Conference Travel Grants
 | Name                                               | Deadline         | Professional/Academic | Focus                  | Additional                                                                                  |
 | -------------------------------------------------- | ---------------- | --------------------- | ---------------------- | ------------------------------------------------------------------------------------------- |
 | [Citadel Securities Conference Travel Grant](https://www.citadelsecurities.com/careers/students/conference-travel-grant/) | Varies           | Academic              | Graduate/Undergraduate | Grace Hopper Celebration, NeurIPS – Conference on Neural Information Processing Systems, Joint March Meeting and April Meeting – Global Physics Summit, ICLR – International Conference on Learning Representations, ICML – International Conference of Machine Learning |
