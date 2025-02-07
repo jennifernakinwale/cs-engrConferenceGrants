@@ -20,8 +20,8 @@ Below is a list of additional conference grant opportunities that you should con
 | [Google Conference Scholarships](https://buildyourfuture.withgoogle.com/scholarships/google-conference-scholarships) | Varies           | Professional and Academic | Graduate  <br> Undergraduate |                                                                                             |
 | [IGEN Travel Grants](https://igenetwork.org/travel-grants) | Rolling           | Professional and Academic | Graduate  <br>  PostDoc | Open to Graduate Student or Postdoctoral Scholar associated with the following IGEN AMT Partner organizations: <ul><li>AAS</li><li>ACS</li><li>AMS</li><li>APS</li><li>MRS</li><li>AGU</li><li>USC Research Hub</li><li>University of Wisconsin Madison CIMER</li><li>RIT Inclusive Practices Hub</li><li>WestEd</li></ul> |
 | [ACM Travel Grants](https://www.acm.org/conferences/data-science-summit/data-science-summit-student-travel-grants) | Varies           | Academic              | Graduate, <br> PostDoc <br> Junior Faculty |                                                                                             |
-| [ACM-W Computer Science Research Conference Scholarships](https://women.acm.org/scholarships/) | Varies           | Academic              | Graduate  <br> Undergraduate |                                                                                             |
-                                                                                            |
+| [ACM-W Computer Science Research Conference Scholarships](https://women.acm.org/scholarships/) | Varies           | Academic              | Graduate  <br> Undergraduate | |
+                                                                                        
 
 ### Licensing and Attribution
 
