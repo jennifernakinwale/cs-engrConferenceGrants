@@ -13,7 +13,7 @@ Below is a list of additional conference grant opportunities that you should con
 
 
 ## Conference Travel Grants
-| Name                                               | Deadline         | Professional/Academic | Focus                  | Additional                                                                                  |
+| Name                                               | Deadline         | Conference Type | Focus                  | Additional                                                                                  |
 | -------------------------------------------------- | --------------------------------------------------- | ---------------------------- | ---------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | [2025 IEEE WIE Family Cares Grant Program](https://wie.ieee.org/grants-scholarships/family-cares-grant/?utm_source=newsletter&utm_medium=email&utm_campaign=social+media) | 24 March     | Academic              | IEEE Members (Professional/Student)  | 
 | [Citadel Securities Conference Travel Grant](https://www.citadelsecurities.com/careers/students/conference-travel-grant/) | Varies           | Professional and Academic              | Graduate <br> Undergraduate | Currently eligible conferences are: <ul><li>Grace Hopper Celebration</li><li>NeurIPS – Conference on Neural Information Processing Systems</li><li>Joint March Meeting and April Meeting – Global Physics Summit</li><li>ICLR – International Conference on Learning Representations</li><li>ICML – International Conference of Machine Learning</li></ul> |
