@@ -23,5 +23,11 @@ Below is a list of additional conference grant opportunities that you should con
 | [2025 IEEE WIE Family Cares Grant Program](https://wie.ieee.org/grants-scholarships/family-cares-grant/?utm_source=newsletter&utm_medium=email&utm_campaign=social+media) | 24 March     | Academic              | - |                                                                                             |
 
 ### Licensing and Attribution
-This work is licensed under the terms of the [LICENSE](./LICENSE) file in this repository.
+
+This work is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+
+[cc-by]: https://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://licensebuttons.net/l/by/4.0/88x31.png
 
