@@ -1,7 +1,7 @@
 # Computer Science/Engineering Conference Travel Grants
 
 
-A compiled list of conference travel grants for **Professional** and **Academic** (Faculty, PostDoc, Graduate, Undergraduate) in Computer Science, Engineering and related fields. This list is created by [Jennifer Akinwale](https://jennifernakinwale.netlify.app/), a Computer Science Ph.D. Researcher at the University of Cincinnati.
+A compiled list of travel grants for **Professional** and **Academic** Conferences related to Computer Science, Engineering and related fields. This list is created by [Jennifer Akinwale](https://jennifernakinwale.netlify.app/), a Computer Science Ph.D. Researcher at the University of Cincinnati.
 
 One of the first places to explore for conference funding is within your own organization or institution. Universities and professional organizations often have budgets allocated for professional and academic development, which may include grants or funding to attend conferences.
 
