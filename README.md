@@ -8,6 +8,7 @@ One of the first places to explore for conference funding is within your own org
 Externally, you should also research funding opportunities provided by the conference itself. Many professional and academic conferences offer support for covering registration costs, and in some cases, travel and lodging through various volunteering or speaking opportunities. This information is typically available on the conference website, or you can directly contact the conference organizers. For example:
 <ul> <li><a href="https://cis.ieee.org/activities/membership-activities/travel-grants">IEEE Computational Intelligence Society (CIS) Conference Travel Grant</a></li> <li><a href="https://www.sigmetrics.org/sigmetrics2024/student_grants.html">ACM Sigmetrics/IFIP Performance Conference Grant</a></li> <li><a href="https://swe.org/awards/collegiate-competitions/">SWE Conference Collegiate Competitions </a></li> </ul>
 
+
 Below is a list of additional conference grant opportunities that you should consider applying for:
 
 
@@ -21,3 +22,7 @@ Below is a list of additional conference grant opportunities that you should con
 | [ACM-W Computer Science Research Conference Scholarships](https://women.acm.org/scholarships/) | Varies           | Academic              | Graduate  <br> Undergraduate |                                                                                             |
 | [2025 IEEE WIE Family Cares Grant Program](https://wie.ieee.org/grants-scholarships/family-cares-grant/?utm_source=newsletter&utm_medium=email&utm_campaign=social+media) | 24 March     | Academic              | - |                                                                                             |
 
+##### Licensing and Attribution
+This project is licensed under the terms of the [LICENSE](./LICENSE) file in this repository.
+
+If you use or modify this work, please provide appropriate attribution.
