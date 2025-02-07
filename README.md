@@ -6,7 +6,7 @@ A compiled list of conference travel grants for **Professional** and **Academic*
 One of the first places to explore for conference funding is within your own organization or institution. Universities and professional organizations often have budgets allocated for professional and academic development, which may include grants or funding to attend conferences.
 
 Externally, you should also research funding opportunities provided by the conference itself. Many professional and academic conferences offer support for covering registration costs, and in some cases, travel and lodging through various volunteering or speaking opportunities. This information is typically available on the conference website, or you can directly contact the conference organizers. For example:
-<ul> <li> [IEEE Computational Intelligence Society (CIS) Conference Travel Grant](https://cis.ieee.org/activities/membership-activities/travel-grants) </li> <li>[ACM Sigmetrics/IFIP Performance COnferecne](https://www.sigmetrics.org/sigmetrics2024/student_grants.html) </li> <li> [SWE Collegiate Poster & Rapid Fire Competition](https://swe.org/awards/collegiate-competitions/)</li></ul>
+<ul> <li><a href="https://cis.ieee.org/activities/membership-activities/travel-grants">IEEE Computational Intelligence Society (CIS) Conference Travel Grant</a></li> <li><a href="https://www.sigmetrics.org/sigmetrics2024/student_grants.html">ACM Sigmetrics/IFIP Performance Conference Grant</a></li> <li><a href="https://swe.org/awards/collegiate-competitions/">SWE Collegiate Poster & Rapid Fire Competition</a></li> </ul>
 
 Below is a list of additional conference grant opportunities that you should consider applying for:
 
