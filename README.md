@@ -22,7 +22,6 @@ Below is a list of additional conference grant opportunities that you should con
 | [ACM-W Computer Science Research Conference Scholarships](https://women.acm.org/scholarships/) | Varies           | Academic              | Graduate  <br> Undergraduate |                                                                                             |
 | [2025 IEEE WIE Family Cares Grant Program](https://wie.ieee.org/grants-scholarships/family-cares-grant/?utm_source=newsletter&utm_medium=email&utm_campaign=social+media) | 24 March     | Academic              | - |                                                                                             |
 
-##### Licensing and Attribution
-This project is licensed under the terms of the [LICENSE](./LICENSE) file in this repository.
+### Licensing and Attribution
+This work is licensed under the terms of the [LICENSE](./LICENSE) file in this repository.
 
-If you use or modify this work, please provide appropriate attribution.
