@@ -1,4 +1,4 @@
-# Computer Science/Engineering Conference Travel Grants
+# Computer Science and Engineering Conference Funding/Travel Grants
 
 
 A compiled list of conference travel grants for **Professionals** and **Academics** in Computer Science, Engineering and related fields. This list is created by [Jennifer Akinwale](https://jennifernakinwale.netlify.app/), a Computer Science Ph.D. Researcher at the University of Cincinnati.
