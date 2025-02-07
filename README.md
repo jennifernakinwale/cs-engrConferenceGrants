@@ -1,16 +1,12 @@
 # Computer Science/Engineering Conference Travel Grants
 
 
-A Curated list of **Professional** and **Academic** (Faculty, PostDoc, Graduate, Undergraduate) in Computer Science, Engineering and related fields. List created by [Jennifer Akinwale](https://jennifernakinwale.netlify.app/), a Computer Science Ph.D. researcher at the University of Cincinnati (UC).
+A compiled list of conference travel grants for **Professional** and **Academic** (Faculty, PostDoc, Graduate, Undergraduate) in Computer Science, Engineering and related fields. This list is created by [Jennifer Akinwale](https://jennifernakinwale.netlify.app/), a Computer Science Ph.D. Researcher at the University of Cincinnati (UC).
 
-The best way to receive funding is through your conferences.
-Most professional conferences have ways of spoosnoring conference regostration cost as well as travel and loging through various voluntering opportunities and/or speaker opportunities. same for acadmic conferences.
-reach out and explore the website.
+One of the first places to explore for funding your conference or conference grants is internally, within your organization/college. Most organizations or colleges have budget for professional and/or academic devemopment and this could include funds/grants to attend conferences. Externally, you should also check what grant/funsing opportunities are available from the conference. COnferecns , Porfesional/Academic have ways of covering conference regostration cost and sometimes  travel and lodging through various voluntering opportunities and/or speaking opportunities. Information for this can be obtained from the conference webistes, or you can reach out to the contact/confernce organizaers. For instance, [IEEE Computational Intelligence Society (CIS)] (https://cis.ieee.org/activities/membership-activities/travel-grants), [ACM Sigmetrics/IFIP Performance COnferecne] (https://www.sigmetrics.org/sigmetrics2024/student_grants.html), [SWE Collegiate Poster & Rapid Fire Competition] (https://swe.org/awards/collegiate-competitions/).
 
+Listed below are other opportunites for conference grants that you should take adavantge of by applying. 
 
-respective graduate programs. Most reputable PhD programs provide full funding through a teaching assistantship (TA), research assistantship (RA), or university fellowship. ProFellow has a great list of fully-funded PhD programs in Computer Science [here](https://www.profellow.com/fellowships/fully-funded-phd-programs-in-computer-science/). As you progress throughout your programs, you may find additional sources of funding helpful to travel to conferences, focus on your research without teaching commitments, or upgrade your equipment. Definitely take advantage of these opportunities below by applying to scholarships and/or fellowships.
-
-_Note: a number of fellowships listed below have been deprecated but are still listed for posterity. Occasionally, companies and organizations revive fellowships, so I would still suggest checking them occasionally._
 
 ## Conference Travel Grants
 | Name                                               | Deadline         | Professional/Academic | Focus                  | Additional                                                                                  |
